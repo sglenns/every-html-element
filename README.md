@@ -1,4 +1,6 @@
-# Nuxt Minimal Starter
+# Every HTML element
+
+Nuxt project inspired by [every-html-element](https://iamwillwang.com/every-html-element/) by [willwang](https://iamwillwang.com/)
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
